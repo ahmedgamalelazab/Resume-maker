@@ -21,7 +21,7 @@
     "baseUrl": "src",
     "paths": {
       "@/*": ["*"],
-      "@core": ["core"]
+      "@/templates": ["templates"]
     }
   },
   "module": {

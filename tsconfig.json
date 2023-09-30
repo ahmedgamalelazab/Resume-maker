@@ -22,7 +22,7 @@
     "baseUrl": "src",
     "paths": {
       "@/*": ["*"],
-      // add here the path mapping 
+      "@/templates": ["templates"]
     }
   },
   "include": ["src/**/*.ts", "src/**/*.json", ".env"],
